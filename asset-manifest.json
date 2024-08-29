@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TMDB_API_based/static/css/main.0b5e8219.css",
+    "main.css": "/TMDB_API_based/static/css/main.6ea0914e.css",
     "main.js": "/TMDB_API_based/static/js/main.6e61c80a.js",
     "static/media/home-paghe-bg.jpg": "/TMDB_API_based/static/media/home-paghe-bg.af1d4f4488ea5e5b1d0e.jpg",
     "static/media/like.png": "/TMDB_API_based/static/media/like.320032cc32bfb1d2a630.png",
     "index.html": "/TMDB_API_based/index.html"
   },
   "entrypoints": [
-    "static/css/main.0b5e8219.css",
+    "static/css/main.6ea0914e.css",
     "static/js/main.6e61c80a.js"
   ]
 }
